@@ -1,6 +1,7 @@
-0 Cardboard
+0 Plastic
 1 Glass
 2 Metal
-3 Paper
-4 Plastic
+3 Cardboard
+4 Paper
 5 Trash
+6 Organic
